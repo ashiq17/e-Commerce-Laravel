@@ -29,13 +29,6 @@
 
 
 
-        <style>
-        .custom-login {
-            padding-top: 100px;
-            padding-bottom: 100px;
-        }
-
-        </style>
     </head>
 
     <body>
