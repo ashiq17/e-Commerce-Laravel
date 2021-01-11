@@ -39,5 +39,8 @@
 
         {{View::make('footer')}}
     </body>
+    <style>
+    dpadding-top:100px;
+    height:500px;
 
-</html>
+    </style>
