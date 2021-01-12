@@ -40,7 +40,9 @@
         {{View::make('footer')}}
     </body>
     <style>
-    dpadding-top:100px;
-    height:500px;
+    .custom-login {
+        padding-top: 100px;
+        height: 500px;
+    }
 
     </style>
